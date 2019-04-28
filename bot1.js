@@ -90,14 +90,13 @@ let eg = new EGClient({
           });
       }
      
-      if (args[0] == "!banner"){
+      if (args[0] == "!epicbanner"){
           args = data.message.split(" ").toUpperCase;
           c_party.members.forEach(async member => {
               try{
-                    member.setBRBanner(args[1], args[2], 12, member.jid);
+                    member.setBRBanner("Otherbanner28", "defaultcolor1", 12, member.jid)
               }catch(e){
-                  communicator.sendMessage(data.friend.id, 'Cant set banner because it is invalid banner!');
-				  console.log("failed changing banner bruh")
+                  communicator.sendMessage(data.friend.id, 'Cant set banner because it is some error!');
               }
           });
       }

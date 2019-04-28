@@ -14,3 +14,5 @@ now whisper to it, and say help
 it will list commands that you can use.
 some emotes skins and backblings you can use are in the files emote.txt backbling.txt and skin.txt but you can find more 
 at this link : https://docs.google.com/spreadsheets/d/1gVDgnzNyMCafIWa-dBO3mgNUHmHzgA9O5sWbfQy2Yfg/edit#gid=0
+also, if for others the bot is invisible, try kicking it and re inviting it.
+note: it cant ready up.

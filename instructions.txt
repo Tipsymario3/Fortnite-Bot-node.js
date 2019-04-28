@@ -1,0 +1,16 @@
+install node.js and vs code
+
+make a new epic games account for your bot
+put the details in the bot1.js file (edit it with vs code or notepad or notepad++)
+adjust everything else in there to whatever you want!
+also extract the node_modules.zip file (drag the folder inside into your bot folder)
+then to run it
+send a friend request to the bot on your actual account
+then while fortnite is open, open a command prompt in your bot folder (shift right click)
+and type "node bot1.js" or whatever you called the file instead of bot1.js
+then wait for it to load everything
+then invite the bot to your party it will join automatically
+now whisper to it, and say help
+it will list commands that you can use.
+some emotes skins and backblings you can use are in the files emote.txt backbling.txt and skin.txt but you can find more 
+at this link : https://docs.google.com/spreadsheets/d/1gVDgnzNyMCafIWa-dBO3mgNUHmHzgA9O5sWbfQy2Yfg/edit#gid=0

@@ -65,17 +65,9 @@ let eg = new EGClient({
           });
       }
       if (args[0] == "!status"){
-            fortnite.communicator.updateStatus(args[1]);
-            communicator.updateStatus(args[1]);
-
-          var g_stt = '';
-
-          for(var i = 1;i <= args.length;i++){
-          g_stt += args[i];
-          }
-
-            fortnite.communicator.updateStatus(g_stt]);
-            communicator.updateStatus(g_stt]);
+		  console.log("status change attempted")
+            fortnite.communicator.updateStatus(args[1] + args[2] + args[3]);
+            communicator.updateStatus(args[1] + args[2] + args[3]);
       }
       if (args[0] == "!emote"){
 		  console.log("emote attempted")
